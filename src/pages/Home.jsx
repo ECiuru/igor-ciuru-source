@@ -168,7 +168,11 @@ export default function Home() {
             </p>
 
             <p className="text-gray-700 mb-4">
-              În 2013, am promovat examenul de admitere în profesie și am fondat Cabinetul Avocatului „Igor Ciuru”, în cadrul căruia activez până în prezent. În anul 2022, am fost ales în funcția de prodecan al Baroului Bălți-Nord din cadrul Uniunii Avocaților din Republica Moldova, rol în care am contribuit la dezvoltarea și coordonarea politicilor profesionale.
+              În 2013, am promovat examenul de admitere în profesie și am fondat Cabinetul Avocatului „Igor Ciuru”, în cadrul căruia activez până în prezent. 
+            </p>
+
+            <p className="text-gray-700 mb-4">
+              În anul 2022, am fost ales în funcția de prodecan al Baroului Bălți-Nord din cadrul Uniunii Avocaților din Republica Moldova, rol în care am contribuit la dezvoltarea și coordonarea politicilor profesionale.
             </p>
 
         </div>
